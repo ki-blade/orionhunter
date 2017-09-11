@@ -7,7 +7,9 @@
 .header{background-image: url(https://static1.squarespace.com/static/56ab82d789a60a49487e0dc8/t/5846d710d482e959dc7c1ad5/1481037587202/energy+banner.jpg?format=1500w) center;
     Background-width: 600px;
   text-align: center;
-    padding: 20px;
+  text-color: white;
+    padding: 50px;
+  border-radius: 10px;
 }
 
 .body{

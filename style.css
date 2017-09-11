@@ -3,16 +3,23 @@
   font-size: 16px;
   
 }
-body{
+
+.header{
+
+}
+
+.body{
  Background-image: url(https://drive.google.com/drive/my-drive) center scroll;
   
 }
 
-h1{
+.h1{
+  font-color: blue;
 
 }
 
 p1{
+font-color: blue;
 
 }
 

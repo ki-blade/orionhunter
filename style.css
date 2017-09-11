@@ -1,6 +1,8 @@
 *{
-  font-color: black;
+  font-color: white;
   font-size: 16px;
+  Background-image: url(http://cdn23.us1.fansshare.com/photos/320x480/center-swirl-blue-fractal-wallpaper-png-normal-png-1805255254.jpg) center scroll;
+  
   
 }
 
@@ -11,8 +13,13 @@ h1{
 p1{
 
 }
+
+td{
+  color: #0033cc;
+  border: white 1px;
+}
 .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #00b300; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -21,3 +28,4 @@ p1{
     display: inline-block;
     font-size: 16px;
 }
+
